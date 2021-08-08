@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">gate</string>
+    <string name="agent_name">Agent Name</string>
+    <string name="delivery_company">Delivery Company</string>
+    <string name="vehicle_number">Vehicle Number(If Any)</string>
+    <string name="block_flat_number">Block/Flat Number</string>
+    <string name="entry_time">Entry Time</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+    <string name="food_delivery_entry">Food Delivery Entry</string>
+    <string name="courier_delivery_entry">Courier Delivery Entry</string>
+    <string name="workers_entry">Workers Entry</string>
+</resources>
